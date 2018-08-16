@@ -1,0 +1,7 @@
+What is a MAC address? 
+
+Media Access control hardware> its a computes unique address within a ethernet network. 
+
+What is a frame check sequence? 
+
+Extra error detecting code added to a frame in a communications protocal. 
