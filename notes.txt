@@ -5,3 +5,16 @@ Media Access control hardware> its a computes unique address within a ethernet n
 What is a frame check sequence? 
 
 Extra error detecting code added to a frame in a communications protocal. 
+
+what is database partiitioning? 
+
+Kind of like horizontal scaling. having users assigned to different severs based on an attribute (by last name, school, etc) 
+
+Mater-master vs master-slave paradigms when master fails 
+
+In instance of master failure, slave must be promoted to master to take over its place (no automatic fail over) 
+
+Master-master: automatic fail over
+extra notes: work load distributed between masters 
+loosely consistent 
+hard to configure and deploy. 
